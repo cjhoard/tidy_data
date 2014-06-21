@@ -1,7 +1,7 @@
 Tidy Data README file
 =========
 
-####Tidy data course assignment for coursera getting and cleaning data course
+####Tidy data assignment for coursera getting and cleaning data course
 
 
 The script in this repository (run_analysis.R) was developed to process data collected as part of a wearable technology assessment. A set of measurements were collected on 30 subjects doing 6 different activities through a Samsung Galaxy S II smartphone that each subject was wearing.  There were a training and a testing set of data that were separate pieces of this study. The goal of this code was to select variables of interest of the combined training and testing data and estimate a mean of each variable by subject and activity.  The final results of this analysis are found in the tab delimited text file *tidy_wear_tech.txt*.  
